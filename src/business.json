@@ -1,8 +1,169 @@
 {
-"slug":"chez-clarisse-concept","name":"Chez Clarisse Mama Africa","theme":"clarisse","layout":"platter","accent":"#e7a65b","paper":"#faf1df","ink":"#174b40","model":"attieke","modelColor":"#95613c","modelLabel":"The attiéké platter","wordmark":"Chez Clarisse","wordmarkSub":"MAMA AFRICA · OSU, ACCRA","location":"Osu, Accra · Ivorian flavours","issue":"THE MAMA AFRICA EDITION","kicker":"THE TABLE IS BETTER TOGETHER","title":"A taste of","titleEm":"Mama Africa","subtitle":"Smoky grilled fish. Golden alloco. Fluffy attiéké. Discover Ivorian favourites and prepare a gathering around the dishes you love.","heroCta":"Meet the flavours","cta":"Plan a group meal","heroNote":"Independent concept · confirm menu and availability directly.","heroAlt":"Generated editorial illustration of grilled tilapia, attieke and alloco on an emerald platter","stampTop":"SHARE THE","stamp":"flavour","stampBottom":"SHARE THE MOMENT","heroFoot":"IVORIAN CUISINE · ACCRA","ticker":"Attiéké. Alloco. Good company.",
-"exploreLabel":"The food story","storyLabel":"Mama Africa","visitLabel":"Find us in Osu","experienceKicker":"THE PLATTER STUDY","experienceTitle":"Every side","experienceEm":"has a story.","experienceCopy":"Turn our original 3D platter study to explore the elements of an Ivorian meal. Then build a shortlist to help explain your preferences before you visit.","exploreKicker":"GET TO KNOW THE DISHES","exploreTitle":"Come for","exploreEm":"the flavour.","exploreNote":"Dish descriptions are a guide, not a live menu. Ask the business about today’s choices, prices and dietary requirements.","items":[{"id":"attieke","name":"Attiéké & grilled fish","category":"The main event","description":"Fermented cassava couscous and grilled fish: a familiar pairing in descriptions of this Ivorian restaurant.","image":"./hero.webp","alt":"Generated attieke and grilled tilapia editorial illustration","meta":"Illustrative image · actual presentation may differ"},{"id":"alloco","name":"Alloco","category":"Alongside","description":"Fried ripe plantain brings a sweet, golden contrast to a savoury plate. Add it to your enquiry shortlist.","symbol":"◒","meta":"Confirm current sides and portions"},{"id":"chicken","name":"Chicken for the table","category":"The main event","description":"Public guides describe chicken among the restaurant’s dishes. Ask about the current preparation and accompaniments.","symbol":"✳","meta":"Confirm actual dishes and availability"}],
-"storyKicker":"AN IVORIAN TABLE IN ACCRA","storyTitle":"Make room","storyEm":"for Mama Africa.","storyCopy":"Chez Clarisse Mama Africa is described in public restaurant guides as an Ivorian restaurant on 8th Lane in Osu, behind Ecobank.","storyMore":"This concept pairs an introduction to unfamiliar dishes with a practical group-meal brief, so visitors can arrive with better questions and a clearer plan.","socialAlt":"Publicly sourced Chez Clarisse restaurant imagery","socialCaption":"Business source imagery · see source credits","sourceUrl":"https://www.instagram.com/chez_clarisse_mama_africa/","socialSource":"https://ofadaa.com/accra/restaurants/chez-clarisse-mama-africa","sourceCta":"Explore the restaurant’s social page",
-"stepsTitle":"GOOD GATHERINGS BEGIN WITH THE DETAILS","steps":[["Discover","Learn the dishes and shortlist the flavours you want to discuss."],["Gather","Add your party size, preferred date and meal arrangement."],["Confirm","Use the draft to ask the restaurant about availability and final details."]],"planNoun":"gathering brief","plannerKicker":"YOUR NEXT GET-TOGETHER","plannerTitle":"More people","plannerEm":"more flavour.","plannerCopy":"A clear brief makes a group-meal conversation easier. Save your preferred date, guest count and dishes, then confirm arrangements directly with the restaurant.","titleLabel":"Name your gathering","titlePlaceholder":"e.g. Friday team dinner","fields":[{"name":"guests","label":"Number of guests","type":"number","min":1,"max":100,"value":4,"required":true},{"name":"arrangement","label":"Meal arrangement","type":"select","options":["Group dining enquiry","Takeaway enquiry","Ask about catering"]},{"name":"date","label":"Preferred date","type":"date","required":true},{"name":"time","label":"Preferred time","type":"time","required":true}],"notesLabel":"What should the restaurant know?","notesPlaceholder":"Preferred dishes, seating questions, dietary needs to confirm…",
-"visitKicker":"FIND THE FLAVOUR","visitTitle":"A little corner","visitEm":"of Osu.","address":"8th Lane, behind Ecobank · Osu, Accra","visitCopy":"Public restaurant guides place Chez Clarisse Mama Africa in Osu. Confirm current directions, opening hours and group arrangements before setting out.","visitNote":"This site provides no live opening status, prices or confirmed reservations. Use the linked public social account to check current details.","mapUrl":"https://www.google.com/maps/search/?api=1&query=Chez+Clarisse+Mama+Africa+Osu+Accra","faq":[["What is attiéké?","Attiéké is an Ivorian cassava couscous. The description is general food guidance; ask the restaurant about its specific dishes and accompaniments."],["Can I make a booking here?","The gathering brief is a planning tool. It does not create or confirm a restaurant reservation. Contact the real business for confirmation."],["Are dietary filters a safety guarantee?","No. Discuss ingredients and preparation directly with the restaurant, particularly for allergies or other dietary requirements."]],"footerTitle":"Bring your people","footerEm":"we’ll bring the inspiration.","dashboardKicker":"CHEZ CLARISSE / GATHERING PLANS",
-"problem":"Visitors unfamiliar with Ivorian dishes need understandable descriptions and a structured way to discuss group meals, rather than assembling the details across social posts and directories.","websiteStatus":"No official standalone website found in this research. Condé Nast Traveler points to Facebook; other guides identify an Instagram account. This is not proof of absence.","sources":["https://ofadaa.com/accra/restaurants/chez-clarisse-mama-africa","https://www.cntraveler.com/restaurants/accra/chez-clarisse","https://restaurantguru.com/Chez-Clarisse-Mama-Africa-Accra","https://www.instagram.com/chez_clarisse_mama_africa/"],"imagePrompt":"Premium editorial photo of grilled whole tilapia, attieke, alloco, tomatoes and onions on an emerald green platter over cream linen, golden sunlight, no logos or text; an illustrative concept, not a photographed restaurant dish."
+  "slug": "chez-clarisse-concept",
+  "name": "Chez Clarisse Mama Africa",
+  "theme": "chez",
+  "layout": "platter",
+  "accent": "#ed7036",
+  "paper": "#191d19",
+  "ink": "#efe9d8",
+  "model": "attieke",
+  "modelColor": "#95613c",
+  "modelLabel": "The attiéké platter",
+  "wordmark": "Chez Clarisse",
+  "wordmarkSub": "MAMA AFRICA · OSU, ACCRA",
+  "location": "Osu, Accra · Ivorian flavours",
+  "issue": "THE MAMA AFRICA EDITION",
+  "kicker": "THE TABLE IS BETTER TOGETHER",
+  "title": "ABIDJAN SOUL",
+  "titleEm": "ACCRA NIGHTS",
+  "subtitle": "Smoky grilled fish. Golden alloco. Fluffy attiéké. Discover Ivorian favourites and prepare a gathering around the dishes you love.",
+  "heroCta": "Meet the flavours",
+  "cta": "Plan a group meal",
+  "heroNote": "Independent concept · confirm menu and availability directly.",
+  "heroAlt": "Interior photograph published by Chez Clarisse Mama Africa on Instagram",
+  "stampTop": "SHARE THE",
+  "stamp": "flavour",
+  "stampBottom": "SHARE THE MOMENT",
+  "heroFoot": "IVORIAN CUISINE · ACCRA",
+  "ticker": "Attiéké. Alloco. Good company.",
+  "exploreLabel": "The food story",
+  "storyLabel": "Mama Africa",
+  "visitLabel": "Find us in Osu",
+  "experienceKicker": "THE PLATTER STUDY",
+  "experienceTitle": "Every side",
+  "experienceEm": "has a story.",
+  "experienceCopy": "Turn our original 3D platter study to explore the elements of an Ivorian meal. Then build a shortlist to help explain your preferences before you visit.",
+  "exploreKicker": "GET TO KNOW THE DISHES",
+  "exploreTitle": "Come for",
+  "exploreEm": "the flavour.",
+  "exploreNote": "Dish descriptions are a guide, not a live menu. Ask the business about today’s choices, prices and dietary requirements.",
+  "items": [
+    {
+      "id": "attieke",
+      "name": "Attiéké & grilled fish",
+      "category": "The main event",
+      "description": "Fermented cassava couscous and grilled fish: a familiar pairing in descriptions of this Ivorian restaurant.",
+      "image": "./hero.webp",
+      "alt": "Generated illustrative attieke and grilled fish platter",
+      "meta": "Generated food illustration · not actual restaurant presentation"
+    },
+    {
+      "id": "alloco",
+      "name": "Alloco",
+      "category": "Alongside",
+      "description": "Fried ripe plantain brings a sweet, golden contrast to a savoury plate. Add it to your enquiry shortlist.",
+      "symbol": "◒",
+      "meta": "Confirm current sides and portions"
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken for the table",
+      "category": "The main event",
+      "description": "Public guides describe chicken among the restaurant’s dishes. Ask about the current preparation and accompaniments.",
+      "symbol": "✳",
+      "meta": "Confirm actual dishes and availability"
+    }
+  ],
+  "storyKicker": "AN IVORIAN TABLE IN ACCRA",
+  "storyTitle": "Make room",
+  "storyEm": "for Mama Africa.",
+  "storyCopy": "Chez Clarisse Mama Africa is described in public restaurant guides as an Ivorian restaurant on 8th Lane in Osu, behind Ecobank.",
+  "storyMore": "This concept pairs an introduction to unfamiliar dishes with a practical group-meal brief, so visitors can arrive with better questions and a clearer plan.",
+  "socialAlt": "Publicly sourced Chez Clarisse restaurant imagery",
+  "socialCaption": "Business source imagery · see source credits",
+  "sourceUrl": "https://www.instagram.com/chez_clarisse_mama_africa/",
+  "socialSource": "https://ofadaa.com/accra/restaurants/chez-clarisse-mama-africa",
+  "sourceCta": "Explore the restaurant’s social page",
+  "stepsTitle": "GOOD GATHERINGS BEGIN WITH THE DETAILS",
+  "steps": [
+    [
+      "Discover",
+      "Learn the dishes and shortlist the flavours you want to discuss."
+    ],
+    [
+      "Gather",
+      "Add your party size, preferred date and meal arrangement."
+    ],
+    [
+      "Confirm",
+      "Use the draft to ask the restaurant about availability and final details."
+    ]
+  ],
+  "planNoun": "gathering brief",
+  "plannerKicker": "YOUR NEXT GET-TOGETHER",
+  "plannerTitle": "More people",
+  "plannerEm": "more flavour.",
+  "plannerCopy": "A clear brief makes a group-meal conversation easier. Save your preferred date, guest count and dishes, then confirm arrangements directly with the restaurant.",
+  "titleLabel": "Name your gathering",
+  "titlePlaceholder": "e.g. Friday team dinner",
+  "fields": [
+    {
+      "name": "guests",
+      "label": "Number of guests",
+      "type": "number",
+      "min": 1,
+      "max": 100,
+      "value": 4,
+      "required": true
+    },
+    {
+      "name": "arrangement",
+      "label": "Meal arrangement",
+      "type": "select",
+      "options": [
+        "Group dining enquiry",
+        "Takeaway enquiry",
+        "Ask about catering"
+      ]
+    },
+    {
+      "name": "date",
+      "label": "Preferred date",
+      "type": "date",
+      "required": true
+    },
+    {
+      "name": "time",
+      "label": "Preferred time",
+      "type": "time",
+      "required": true
+    }
+  ],
+  "notesLabel": "What should the restaurant know?",
+  "notesPlaceholder": "Preferred dishes, seating questions, dietary needs to confirm…",
+  "visitKicker": "FIND THE FLAVOUR",
+  "visitTitle": "A little corner",
+  "visitEm": "of Osu.",
+  "address": "8th Lane, behind Ecobank · Osu, Accra",
+  "visitCopy": "Public restaurant guides place Chez Clarisse Mama Africa in Osu. Confirm current directions, opening hours and group arrangements before setting out.",
+  "visitNote": "This site provides no live opening status, prices or confirmed reservations. Use the linked public social account to check current details.",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chez+Clarisse+Mama+Africa+Osu+Accra",
+  "faq": [
+    [
+      "What is attiéké?",
+      "Attiéké is an Ivorian cassava couscous. The description is general food guidance; ask the restaurant about its specific dishes and accompaniments."
+    ],
+    [
+      "Can I make a booking here?",
+      "The gathering brief is a planning tool. It does not create or confirm a restaurant reservation. Contact the real business for confirmation."
+    ],
+    [
+      "Are dietary filters a safety guarantee?",
+      "No. Discuss ingredients and preparation directly with the restaurant, particularly for allergies or other dietary requirements."
+    ]
+  ],
+  "footerTitle": "Bring your people",
+  "footerEm": "we’ll bring the inspiration.",
+  "dashboardKicker": "CHEZ CLARISSE / GATHERING PLANS",
+  "problem": "Visitors unfamiliar with Ivorian dishes need understandable descriptions and a structured way to discuss group meals, rather than assembling the details across social posts and directories.",
+  "websiteStatus": "Instagram links an older Google business.site page. No working standalone official site was verified; this is a social-first redesign concept, not proof the business never had a website.",
+  "sources": [
+    "https://ofadaa.com/accra/restaurants/chez-clarisse-mama-africa",
+    "https://www.cntraveler.com/restaurants/accra/chez-clarisse",
+    "https://restaurantguru.com/Chez-Clarisse-Mama-Africa-Accra",
+    "https://www.instagram.com/chez_clarisse_mama_africa/"
+  ],
+  "imagePrompt": "Premium editorial photo of grilled whole tilapia, attieke, alloco, tomatoes and onions on an emerald green platter over cream linen, golden sunlight, no logos or text; an illustrative concept, not a photographed restaurant dish.",
+  "heroImage": "./instagram-food.jpg",
+  "imageLabel": "CHEZ CLARISSE / PUBLIC SOCIAL PHOTOGRAPH"
 }

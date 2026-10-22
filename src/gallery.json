@@ -1,0 +1,20 @@
+[
+  {
+    "image": "./instagram-food.jpg",
+    "alt": "Interior photograph published by Chez Clarisse Mama Africa on Instagram",
+    "credit": "Chez Clarisse Mama Africa · Instagram",
+    "source": "https://www.instagram.com/chez_clarisse_mama_africa/p/CUI0hDJI46P/"
+  },
+  {
+    "image": "./social.webp",
+    "alt": "Chez Clarisse public restaurant guide photograph",
+    "credit": "Restaurant photograph · Ofadaa listing",
+    "source": "https://ofadaa.com/accra/restaurants/chez-clarisse-mama-africa"
+  },
+  {
+    "image": "./hero.webp",
+    "alt": "Generated editorial illustration of grilled tilapia, attieke and alloco on an emerald platter",
+    "credit": "Generated illustration · not actual food served",
+    "source": "./studio.html"
+  }
+]

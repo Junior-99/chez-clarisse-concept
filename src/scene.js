@@ -16,7 +16,7 @@ export function mountScene(host,kind,color='#bb6f35'){
   if(kind==='attieke'){const fish=ball(.55,0,.99,.05,timber);fish.scale.set(1.8,.24,.55);const tail=add(new T.ConeGeometry(.26,.4,3),timber,1,.99,.05);tail.rotation.z=-Math.PI/2;for(let i=0;i<5;i++)ball(.1,-.7+i*.32,1,.3,red);}
   if(kind==='noodles'){for(let i=0;i<5;i++){let pork=box(.43,.08,.3,-.6+i*.28,1.02,.18,red);pork.rotation.y=i*.3;}for(let i=0;i<4;i++){const leaf=ball(.22,-.65,.97,-.4+i*.12,green);leaf.scale.set(1,.2,1.6);}}
   for(let i=0;i<4;i++)ball(.035,Math.cos(i)*.7,1.08,Math.sin(i)*.6,green);
-  const chop1=box(.035,.035,3.1,.7,1.15,0,dark);chop1.rotation.y=.2;const chop2=box(.035,.035,3.1,.86,1.15,0,dark);chop2.rotation.y=.25;
+  if(kind==='noodles'){const chop1=box(.035,.035,3.1,.7,1.15,0,dark);chop1.rotation.y=.2;const chop2=box(.035,.035,3.1,.86,1.15,0,dark);chop2.rotation.y=.25;}
  }else if(kind==='furniture'){
   box(3.4,.12,1.05,0,.45,0);box(3.4,.12,1.05,0,1.25,0);for(const x of [-1.64,0,1.64])box(.12,.8,1.05,x,.85,0);box(3.4,.8,.05,0,.85,-.5,dark);for(const x of [-.85,.85]){box(1.5,.66,.08,x,.86,.55,cream);box(.3,.035,.06,x,1.08,.62,gold);}for(const x of [-1.45,1.45])for(const z of [-.35,.35])cyl(.055,.08,.4,x,.22,z,dark);cyl(.26,.18,.4,1.1,1.52,0,red);box(.6,.04,.35,-.7,1.34,0,dark);
  }else if(kind==='yam'){
